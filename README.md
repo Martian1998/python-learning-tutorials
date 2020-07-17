@@ -6,7 +6,7 @@ This folder contains a simple game made in Python Arcade. It is inspired from th
 It involves a single robot which has to *collect* bad robots to become more powerful and eventually win the game. 
 
 ### Demo
-![Game Demo in GIF](https://media.giphy.com/media/Me8Eon7V5bLnj1tvG9/giphy.gif) 
+![Game Demo in GIF](./arcade_game/game.gif) 
 
 
 ### Command to run the game
